@@ -1,0 +1,12 @@
+---
+AccessModifierOffset: -1
+AlignOperands: Align
+AllowShortEnumsOnASingleLine: true
+BreakBeforeBinaryOperators: All
+IndentWidth: 2
+NamespaceIndentation: All
+PenaltyBreakAssignment: 50
+SpaceAfterLogicalNot: true
+SpaceBeforeAssignmentOperators: true
+SpaceBeforeParens: ControlStatements
+UseTab: Never
