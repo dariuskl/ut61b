@@ -1,6 +1,7 @@
 #include "fs9922_dmm3.hpp"
 
-#include <catch2/catch.hpp>
+#include <catch2/catch_test_macros.hpp>
+#include <catch2/generators/catch_generators.hpp>
 
 TEST_CASE("decoding", "[ut61b]") {
   auto uut = Fs9922_dmm3{};
