@@ -1,6 +1,7 @@
 #include "ch9325.hpp"
 
 #include <array>
+#include <stdexcept>
 
 namespace {
   const char *hid_error_(hid_device *const h, const char *const fallback) {
